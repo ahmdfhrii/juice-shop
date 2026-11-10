@@ -1,0 +1,6 @@
+version: v1.25.0
+ignore:
+  SNYK-JS-MARSDB-480405:
+    - '*':
+        reason: 'Vulnerable-by-design component for educational CTF simulation, accept risk'
+        expires: '2026-12-31T00:00:00.000Z'
