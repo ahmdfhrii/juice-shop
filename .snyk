@@ -4,3 +4,7 @@ ignore:
     - '*':
         reason: 'Vulnerable-by-design component for educational CTF simulation, accept risk'
         expires: '2026-12-31T00:00:00.000Z'
+  SNYK-JS-BASICFTP-20419408:
+    - '*':
+        reason: 'Transitive dependency from proxy-agent with no direct patch, accept risk'
+        expires: '2026-12-31T00:00:00.000Z'
